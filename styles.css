@@ -1,0 +1,29 @@
+body {
+    padding: 50px;
+font-family: 'Kalam', cursive;
+    font-size: 25px;
+}
+
+.main {
+    background: rgb(230, 3, 3);
+}
+
+.story {
+    background-color: #faa23b;
+}
+
+.story2 {
+    background-color: rgb(84, 150, 214);
+}
+
+img {
+    width: 80%;
+}
+
+div {
+    text-align: center
+}
+
+.self-image {
+    width: 20%;
+}
